@@ -21,3 +21,9 @@ conda env create --file  neuralcde.yml
 ```
 conda activate neuralcde
 ```
+Go to Experiments folder
+
+### Train sepsis
+```
+sh sepsis.sh
+```
