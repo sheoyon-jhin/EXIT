@@ -12,3 +12,12 @@ Deep learning inspired by differential equations is a recent research trend and 
   The overall architecture of EXIT for Interpolation
 </p>
 
+### create conda environments
+```
+conda env create --file  neuralcde.yml
+```
+
+### activate conda 
+```
+conda activate neuralcde
+```
