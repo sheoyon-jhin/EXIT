@@ -27,3 +27,13 @@ Go to Experiments folder
 ```
 sh sepsis.sh
 ```
+### Citation
+```
+@inproceedings{jhin2022exit,
+  title={Exit: Extrapolation and interpolation-based neural controlled differential equations for time-series classification and forecasting},
+  author={Jhin, Sheo Yon and Lee, Jaehoon and Jo, Minju and Kook, Seungji and Jeon, Jinsung and Hyeong, Jihyeon and Kim, Jayoung and Park, Noseong},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={3102--3112},
+  year={2022}
+}
+```
